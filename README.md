@@ -43,4 +43,7 @@ A compact wearable device that predicts **Myocardial Infarction (MI)** using **H
 
 ## 🖼️ PCB Design
 
-![PCB Preview]('https://github.com/ThamilezaiAnanthakumar/Wearable-for-Myocardial-Infarction-Prediction-Using-HRV/blob/main/Assets/PCB.jpg')
+<p align="center">
+  <img src="https://github.com/ThamilezaiAnanthakumar/Wearable-for-Myocardial-Infarction-Prediction-Using-HRV/main/Assets/PCB.jpg" width="600" alt="PCB Preview"/>
+</p>
+
