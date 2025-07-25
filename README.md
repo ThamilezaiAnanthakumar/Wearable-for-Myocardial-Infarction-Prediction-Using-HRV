@@ -1,6 +1,3 @@
-Here’s a **shortened version** of the GitHub `README.md` based on your instructions:
-
----
 
 # 💓 Wearable for Myocardial Infarction Prediction Using HRV
 
@@ -46,4 +43,4 @@ A compact wearable device that predicts **Myocardial Infarction (MI)** using **H
 
 ## 🖼️ PCB Design
 
-![PCB Preview]()
+![PCB Preview]('https://github.com/ThamilezaiAnanthakumar/Wearable-for-Myocardial-Infarction-Prediction-Using-HRV/blob/main/Assets/PCB.jpg')
