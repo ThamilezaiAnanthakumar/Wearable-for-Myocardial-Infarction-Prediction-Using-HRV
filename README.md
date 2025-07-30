@@ -48,12 +48,12 @@ A compact wearable device that predicts **Myocardial Infarction (MI)** using **H
 </p>
 
 <p align="center">
-  <img src="Assets/PCB.jpg" width="600" alt="PCB Preview"/>
+  <img src="Assets/soldered.jpg" width="600" alt="PCB Preview"/>
 </p>
 
 
 ## 🖼️ Signal Cleaning
 
 <p align="center">
-  <img src="Assets/PCB.jpg" width="600" alt="PCB Preview"/>
+  <img src="Assets/signal.jpg" width="600" alt="PCB Preview"/>
 </p>
